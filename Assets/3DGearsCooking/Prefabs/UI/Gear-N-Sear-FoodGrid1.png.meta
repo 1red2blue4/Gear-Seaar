@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 808faef511b4e4c13b616c2e6204ef65
+timeCreated: 1502213985
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gear-N-Sear-FoodGrid1_0
+    21300002: Gear-N-Sear-FoodGrid1_1
+    21300004: Gear-N-Sear-FoodGrid1_2
+    21300006: Gear-N-Sear-FoodGrid1_3
+    21300008: Gear-N-Sear-FoodGrid1_4
+    21300010: Gear-N-Sear-FoodGrid1_5
+    21300012: Gear-N-Sear-FoodGrid1_6
+    21300014: Gear-N-Sear-FoodGrid1_7
+    21300016: Gear-N-Sear-FoodGrid1_8
+    21300018: Gear-N-Sear-FoodGrid1_9
+    21300020: Gear-N-Sear-FoodGrid1_10
+    21300022: Gear-N-Sear-FoodGrid1_11
+    21300024: Gear-N-Sear-FoodGrid1_12
+    21300026: Gear-N-Sear-FoodGrid1_13
+    21300028: Gear-N-Sear-FoodGrid1_14
+    21300030: Gear-N-Sear-FoodGrid1_15
+    21300032: Gear-N-Sear-FoodGrid1_16
+    21300034: Gear-N-Sear-FoodGrid1_17
+    21300036: Gear-N-Sear-FoodGrid1_18
+    21300038: Gear-N-Sear-FoodGrid1_19
+    21300040: Gear-N-Sear-FoodGrid1_20
+    21300042: Gear-N-Sear-FoodGrid1_21
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_0
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1595
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1509
+        width: 290
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_2
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1585
+        width: 420
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1597
+        width: 447
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_4
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1624
+        width: 314
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1182
+        width: 436
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_6
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1094
+        width: 290
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_7
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1153
+        width: 422
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1173
+        width: 447
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_9
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1192
+        width: 314
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 797
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_11
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 704
+        width: 290
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_12
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 740
+        width: 420
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 779
+        width: 447
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_14
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 811
+        width: 314
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 376
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_16
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 287
+        width: 290
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_17
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 352
+        width: 422
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 381
+        width: 447
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_19
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 419
+        width: 314
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 20
+        width: 808
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gear-N-Sear-FoodGrid1_21
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 20
+        width: 810
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
